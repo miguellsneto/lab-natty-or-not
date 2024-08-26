@@ -16,7 +16,7 @@ Olá pessoal! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da 
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/e-book/E-BOOK.md)
+- [E-BOOK](/exemplos/ebook/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
